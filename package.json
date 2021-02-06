@@ -1,0 +1,24 @@
+{
+  "name": "nanotest",
+  "version": "0.0.1",
+  "description": "The tiniest test framework, just for the console",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfitzgibbon/nanoTest.git"
+  },
+  "keywords": [
+    "test",
+    "framework",
+    "console"
+  ],
+  "author": "David Fitzgibbon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidfitzgibbon/nanoTest/issues"
+  },
+  "homepage": "https://github.com/davidfitzgibbon/nanoTest#readme"
+}
