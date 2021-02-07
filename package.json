@@ -5,7 +5,7 @@
   "main": "./esm/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidfitzgibbon/nanoTest.git"
+    "url": "git+https://github.com/davidfitzgibbon/consoletester.git"
   },
   "keywords": [
     "test",
@@ -15,7 +15,7 @@
   "author": "David Fitzgibbon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidfitzgibbon/nanoTest/issues"
+    "url": "https://github.com/davidfitzgibbon/consoletester/issues"
   },
-  "homepage": "https://github.com/davidfitzgibbon/nanoTest#readme"
+  "homepage": "https://github.com/davidfitzgibbon/consoletester#readme"
 }
