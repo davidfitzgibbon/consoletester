@@ -2,7 +2,6 @@
   "name": "consoletester",
   "version": "0.0.2",
   "description": "The tiniest test framework, just for the console",
-  
   "module": "./esm/index.js",
   "exports": {
     ".": "./esm/index.js"
