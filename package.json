@@ -1,8 +1,8 @@
 {
-  "name": "nanotest",
+  "name": "consoletester",
   "version": "0.0.1",
   "description": "The tiniest test framework, just for the console",
-  "main": "none",
+  "main": "nanoTest.js",
   "scripts": {
     "test": "none"
   },
