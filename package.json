@@ -3,10 +3,6 @@
   "version": "0.0.5",
   "description": "The tiniest test framework, just for the console",
   "main": "./esm/index.js",
-  "module": "./esm/index.js",
-  "exports": {
-    "consoletester": "./esm/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidfitzgibbon/nanoTest.git"
