@@ -4,7 +4,7 @@
   "description": "The tiniest test framework, just for the console",
   "module": "./esm/index.js",
   "exports": {
-    ".": "./esm/index.js"
+    "consoletester": "./esm/index.js"
   },
   "repository": {
     "type": "git",
