@@ -2,8 +2,10 @@
   "name": "consoletester",
   "version": "0.0.1",
   "description": "The tiniest test framework, just for the console",
-  "main": "nanoTest.js",
-  "scripts": {
+  
+  "module": "./esm/index.js",
+  "exports": {
+    ".": "./esm/index.js"
   },
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-let nanoTest = (result, expected) => {
+let consoletester = (result, expected) => {
 	let status = "fail";
 	let color = "red";
 
@@ -15,3 +15,4 @@ let nanoTest = (result, expected) => {
   
   return status;
 };
+export default consoletester
